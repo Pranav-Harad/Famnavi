@@ -175,7 +175,8 @@ famnavi/
 ---
 
 ## Author 👨‍💻
--Made with ❤️ by **Pranav**  
--📧 Email: [pranavharad64@gmail.com](mailto:pranavharad64@gmail.com)  
--🔗 LinkedIn: [www.linkedin.com/in/pranav-harad-667070268](https://www.linkedin.com/in/pranav-harad-667070268)
--Keep your family safe and connected with FamNavi! 🌟
+Made with ❤️ by **Pranav**  
+📧 Email: [pranavharad64@gmail.com](mailto:pranavharad64@gmail.com)  
+🔗 LinkedIn: [www.linkedin.com/in/pranav-harad-667070268](https://www.linkedin.com/in/pranav-harad-667070268)
+
+Keep your family safe and connected with FamNavi! 🌟
